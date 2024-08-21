@@ -1,0 +1,5 @@
+[user]
+	name = TORINIERE Patrick
+	email = Patrick.TORINIERE@ca-ts.fr
+[http]
+	sslBackend = schannel
